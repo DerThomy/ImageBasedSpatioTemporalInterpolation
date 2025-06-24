@@ -28,7 +28,7 @@ method is robust to modest connectivity issues and handles effects such as dynam
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
     <pre><code>@article{steiner2025SplitRendering,
-      author       = {Steiner, Michael and K{\"ö}hler, Thomas and Radl, Lukas and Budge, Brian and Steinberger, Markus},
+      author       = {Steiner, Michael and K{\"o}hler, Thomas and Radl, Lukas and Budge, Brian and Steinberger, Markus},
       title        = {Image-Based Spatio-Temporal Interpolation for Split Rendering},
       journal      = {Computer Graphics Forum},
       number       = {8},
