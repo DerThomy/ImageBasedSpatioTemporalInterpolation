@@ -1,0 +1,6 @@
+[submodule "dependencies/glm"]
+	path = dependencies/glm
+	url = https://github.com/g-truc/glm
+[submodule "dependencies/fpng"]
+	path = dependencies/fpng
+	url = https://github.com/richgel999/fpng
