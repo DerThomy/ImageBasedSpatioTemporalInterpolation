@@ -8,7 +8,8 @@
 <sup>&#42;</sup> denotes equal contribution
 <br>
 
-[Full Paper](https://diglib.eg.org/items/f64629bd-34a4-4880-af25-5de3f57c6fa9)
+[Project Page](https://derthomy.github.io/ImageBasedSpatioTemporalInterpolation/)
+| [Full Paper](https://diglib.eg.org/items/f64629bd-34a4-4880-af25-5de3f57c6fa9)
 | [Dataset](https://drive.google.com/file/d/1U4uUS6L-rxr1jFrJ-b991SQP63G10hkA/view?usp=sharing)
 
 ![Teaser image](docs/teaser.png)
