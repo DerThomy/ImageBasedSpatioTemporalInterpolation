@@ -160,6 +160,7 @@
       <img src="./static/images/pipeline.png" alt="Pipeline">
       <h2 class="subtitle has-text-centered">
         We enable smooth, high-quality rendering on ultra low-powered mobile devices by generating intermediate frames entirely from images using a novel spatio-temporal interpolation split rendering pipeline&mdash;without needing geometry or real-time rasterization.
+        This allows us to upsample the framerate from 10 to 120 FPS on the client.
       </h2>
     </div>
   </div>
@@ -192,15 +193,20 @@
                 <div class="column is-max-desktop">
                     <div class="hero-body">
                         <h2 class="title is-3">Video</h2>
-                        <video id="teaser" preload="auto" autoplay muted loop height="100%">
+                        <!-- <video id="teaser" preload="auto" autoplay muted loop height="100%">
                             <source src="./video/supplemental.mp4"
                                     type="video/mp4">
-                        </video>
+                        </video> -->
+                        <figure class="image is-16by9">
+                            <iframe class="has-ratio" src="https://www.youtube.com/embed/IBHKeBGDHVg?si=9DDLXlODXdsezCJ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </figure>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
 
     <section class="section">
         <div class="container is-max-desktop">
